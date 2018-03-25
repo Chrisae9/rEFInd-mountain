@@ -1,8 +1,8 @@
-# rEFInd-Omen
+# rEFInd-mountain
 
 A clean mountain theme for the [rEFInd UEFI boot manager.](http://www.rodsbooks.com/refind/)
 
-![rEFInd mountain](https://i.imgur.com/7S32qSm.png)
+![rEFInd mountain](https://i.imgur.com/Ra7q34i.png)
 
 ### Usage
 
@@ -16,3 +16,4 @@ A clean mountain theme for the [rEFInd UEFI boot manager.](http://www.rodsbooks.
 
  4. To enable the theme add `include themes/rEFInd-mountain/theme.conf` at the end of
     `refind.conf`.
+    
