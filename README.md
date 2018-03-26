@@ -2,7 +2,7 @@
 
 A clean mountain theme for the [rEFInd UEFI boot manager.](http://www.rodsbooks.com/refind/)
 
-![rEFInd mountain](https://imgur.com/LhmXw6S)
+![rEFInd mountain](https://i.imgur.com/LhmXw6S.gif)
 
 ### Usage
 
